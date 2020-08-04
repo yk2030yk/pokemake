@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+media
+/src/project/logs/*
+!/src/project/logs/.gitkeep
+/mecab-ipadic-neologd
+/src/textlint-for-article-review/node_modules

@@ -1,0 +1,5690 @@
+[
+    {
+        "no": 1,
+        "name": "フシギダネ",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "しんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "ようりょくそ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 45,
+                "attack": 49,
+                "defence": 49,
+                "sp_attack": 65,
+                "sp_defence": 65,
+                "speed": 45
+            },
+            "actual_value": {
+                "hp": 120,
+                "attack": 69,
+                "defence": 69,
+                "sp_attack": 85,
+                "sp_defence": 85,
+                "speed": 65
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 2,
+        "name": "フシギソウ",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "しんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "ようりょくそ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 62,
+                "defence": 63,
+                "sp_attack": 80,
+                "sp_defence": 80,
+                "speed": 60
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 82,
+                "defence": 83,
+                "sp_attack": 100,
+                "sp_defence": 100,
+                "speed": 80
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 3,
+        "name": "フシギバナ",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "しんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "ようりょくそ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 80,
+                "attack": 82,
+                "defence": 83,
+                "sp_attack": 100,
+                "sp_defence": 100,
+                "speed": 80
+            },
+            "actual_value": {
+                "hp": 155,
+                "attack": 102,
+                "defence": 103,
+                "sp_attack": 120,
+                "sp_defence": 120,
+                "speed": 100
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 3,
+        "name": "メガフシギバナ",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "あついしぼう",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 80,
+                "attack": 100,
+                "defence": 123,
+                "sp_attack": 122,
+                "sp_defence": 120,
+                "speed": 80
+            },
+            "actual_value": {
+                "hp": 155,
+                "attack": 120,
+                "defence": 143,
+                "sp_attack": 142,
+                "sp_defence": 140,
+                "speed": 100
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 4,
+        "name": "ヒトカゲ",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "もうか",
+                "is_hidden": false
+            },
+            {
+                "name": "サンパワー",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 39,
+                "attack": 52,
+                "defence": 43,
+                "sp_attack": 60,
+                "sp_defence": 50,
+                "speed": 65
+            },
+            "actual_value": {
+                "hp": 114,
+                "attack": 72,
+                "defence": 63,
+                "sp_attack": 80,
+                "sp_defence": 70,
+                "speed": 85
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 5,
+        "name": "リザード",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "もうか",
+                "is_hidden": false
+            },
+            {
+                "name": "サンパワー",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 58,
+                "attack": 64,
+                "defence": 58,
+                "sp_attack": 80,
+                "sp_defence": 65,
+                "speed": 80
+            },
+            "actual_value": {
+                "hp": 133,
+                "attack": 84,
+                "defence": 78,
+                "sp_attack": 100,
+                "sp_defence": 85,
+                "speed": 100
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 6,
+        "name": "リザードン",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "もうか",
+                "is_hidden": false
+            },
+            {
+                "name": "サンパワー",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 78,
+                "attack": 84,
+                "defence": 78,
+                "sp_attack": 109,
+                "sp_defence": 85,
+                "speed": 100
+            },
+            "actual_value": {
+                "hp": 153,
+                "attack": 104,
+                "defence": 98,
+                "sp_attack": 129,
+                "sp_defence": 105,
+                "speed": 120
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 6,
+        "name": "メガリザードンX",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": "ドラゴン"
+        },
+        "abilities": [
+            {
+                "name": "かたいツメ",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 78,
+                "attack": 130,
+                "defence": 111,
+                "sp_attack": 130,
+                "sp_defence": 85,
+                "speed": 100
+            },
+            "actual_value": {
+                "hp": 153,
+                "attack": 150,
+                "defence": 131,
+                "sp_attack": 150,
+                "sp_defence": 105,
+                "speed": 120
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 6,
+        "name": "メガリザードンY",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "ひでり",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 78,
+                "attack": 104,
+                "defence": 78,
+                "sp_attack": 159,
+                "sp_defence": 115,
+                "speed": 100
+            },
+            "actual_value": {
+                "hp": 153,
+                "attack": 124,
+                "defence": 98,
+                "sp_attack": 179,
+                "sp_defence": 135,
+                "speed": 120
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 7,
+        "name": "ゼニガメ",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "げきりゅう",
+                "is_hidden": false
+            },
+            {
+                "name": "あめうけざら",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 44,
+                "attack": 48,
+                "defence": 65,
+                "sp_attack": 50,
+                "sp_defence": 64,
+                "speed": 43
+            },
+            "actual_value": {
+                "hp": 119,
+                "attack": 68,
+                "defence": 85,
+                "sp_attack": 70,
+                "sp_defence": 84,
+                "speed": 63
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 8,
+        "name": "カメール",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "げきりゅう",
+                "is_hidden": false
+            },
+            {
+                "name": "あめうけざら",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 59,
+                "attack": 63,
+                "defence": 80,
+                "sp_attack": 65,
+                "sp_defence": 80,
+                "speed": 58
+            },
+            "actual_value": {
+                "hp": 134,
+                "attack": 83,
+                "defence": 100,
+                "sp_attack": 85,
+                "sp_defence": 100,
+                "speed": 78
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 9,
+        "name": "カメックス",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "げきりゅう",
+                "is_hidden": false
+            },
+            {
+                "name": "あめうけざら",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 79,
+                "attack": 83,
+                "defence": 100,
+                "sp_attack": 85,
+                "sp_defence": 105,
+                "speed": 78
+            },
+            "actual_value": {
+                "hp": 154,
+                "attack": 103,
+                "defence": 120,
+                "sp_attack": 105,
+                "sp_defence": 125,
+                "speed": 98
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 9,
+        "name": "メガカメックス",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "メガランチャー",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 79,
+                "attack": 103,
+                "defence": 120,
+                "sp_attack": 135,
+                "sp_defence": 115,
+                "speed": 78
+            },
+            "actual_value": {
+                "hp": 154,
+                "attack": 123,
+                "defence": 140,
+                "sp_attack": 155,
+                "sp_defence": 135,
+                "speed": 98
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 10,
+        "name": "キャタピー",
+        "types": {
+            "type_1": "むし",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "りんぷん",
+                "is_hidden": false
+            },
+            {
+                "name": "にげあし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 45,
+                "attack": 30,
+                "defence": 35,
+                "sp_attack": 20,
+                "sp_defence": 20,
+                "speed": 45
+            },
+            "actual_value": {
+                "hp": 120,
+                "attack": 50,
+                "defence": 55,
+                "sp_attack": 40,
+                "sp_defence": 40,
+                "speed": 65
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 11,
+        "name": "トランセル",
+        "types": {
+            "type_1": "むし",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "だっぴ",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 50,
+                "attack": 20,
+                "defence": 55,
+                "sp_attack": 25,
+                "sp_defence": 25,
+                "speed": 30
+            },
+            "actual_value": {
+                "hp": 125,
+                "attack": 40,
+                "defence": 75,
+                "sp_attack": 45,
+                "sp_defence": 45,
+                "speed": 50
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 12,
+        "name": "バタフリー",
+        "types": {
+            "type_1": "むし",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "ふくがん",
+                "is_hidden": false
+            },
+            {
+                "name": "いろめがね",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 45,
+                "defence": 50,
+                "sp_attack": 90,
+                "sp_defence": 80,
+                "speed": 70
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 65,
+                "defence": 70,
+                "sp_attack": 110,
+                "sp_defence": 100,
+                "speed": 90
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 13,
+        "name": "ビードル",
+        "types": {
+            "type_1": "むし",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "りんぷん",
+                "is_hidden": false
+            },
+            {
+                "name": "にげあし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 35,
+                "defence": 30,
+                "sp_attack": 20,
+                "sp_defence": 20,
+                "speed": 50
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 55,
+                "defence": 50,
+                "sp_attack": 40,
+                "sp_defence": 40,
+                "speed": 70
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 14,
+        "name": "コクーン",
+        "types": {
+            "type_1": "むし",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "だっぴ",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 45,
+                "attack": 25,
+                "defence": 50,
+                "sp_attack": 25,
+                "sp_defence": 25,
+                "speed": 35
+            },
+            "actual_value": {
+                "hp": 120,
+                "attack": 45,
+                "defence": 70,
+                "sp_attack": 45,
+                "sp_defence": 45,
+                "speed": 55
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 15,
+        "name": "スピアー",
+        "types": {
+            "type_1": "むし",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "むしのしらせ",
+                "is_hidden": false
+            },
+            {
+                "name": "スナイパー",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 90,
+                "defence": 40,
+                "sp_attack": 45,
+                "sp_defence": 80,
+                "speed": 75
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 110,
+                "defence": 60,
+                "sp_attack": 65,
+                "sp_defence": 100,
+                "speed": 95
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 15,
+        "name": "メガスピアー",
+        "types": {
+            "type_1": "むし",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "てきおうりょく",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 150,
+                "defence": 40,
+                "sp_attack": 15,
+                "sp_defence": 80,
+                "speed": 145
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 170,
+                "defence": 60,
+                "sp_attack": 35,
+                "sp_defence": 100,
+                "speed": 165
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 16,
+        "name": "ポッポ",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "するどいめ",
+                "is_hidden": false
+            },
+            {
+                "name": "ちどりあし",
+                "is_hidden": false
+            },
+            {
+                "name": "はとむね",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 45,
+                "defence": 40,
+                "sp_attack": 35,
+                "sp_defence": 35,
+                "speed": 56
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 65,
+                "defence": 60,
+                "sp_attack": 55,
+                "sp_defence": 55,
+                "speed": 76
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 17,
+        "name": "ピジョン",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "するどいめ",
+                "is_hidden": false
+            },
+            {
+                "name": "ちどりあし",
+                "is_hidden": false
+            },
+            {
+                "name": "はとむね",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 63,
+                "attack": 60,
+                "defence": 55,
+                "sp_attack": 50,
+                "sp_defence": 50,
+                "speed": 71
+            },
+            "actual_value": {
+                "hp": 138,
+                "attack": 80,
+                "defence": 75,
+                "sp_attack": 70,
+                "sp_defence": 70,
+                "speed": 91
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 18,
+        "name": "ピジョット",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "するどいめ",
+                "is_hidden": false
+            },
+            {
+                "name": "ちどりあし",
+                "is_hidden": false
+            },
+            {
+                "name": "はとむね",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 83,
+                "attack": 80,
+                "defence": 75,
+                "sp_attack": 70,
+                "sp_defence": 70,
+                "speed": 101
+            },
+            "actual_value": {
+                "hp": 158,
+                "attack": 100,
+                "defence": 95,
+                "sp_attack": 90,
+                "sp_defence": 90,
+                "speed": 121
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 18,
+        "name": "メガピジョット",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "ノーガード",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 83,
+                "attack": 80,
+                "defence": 80,
+                "sp_attack": 135,
+                "sp_defence": 80,
+                "speed": 121
+            },
+            "actual_value": {
+                "hp": 158,
+                "attack": 100,
+                "defence": 100,
+                "sp_attack": 155,
+                "sp_defence": 100,
+                "speed": 141
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 19,
+        "name": "コラッタ",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "にげあし",
+                "is_hidden": false
+            },
+            {
+                "name": "こんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 30,
+                "attack": 56,
+                "defence": 35,
+                "sp_attack": 25,
+                "sp_defence": 35,
+                "speed": 72
+            },
+            "actual_value": {
+                "hp": 105,
+                "attack": 76,
+                "defence": 55,
+                "sp_attack": 45,
+                "sp_defence": 55,
+                "speed": 92
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 19,
+        "name": "コラッタ",
+        "types": {
+            "type_1": "あく",
+            "type_2": "ノーマル"
+        },
+        "abilities": [
+            {
+                "name": "くいしんぼう",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": false
+            },
+            {
+                "name": "あついしぼう",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 30,
+                "attack": 56,
+                "defence": 35,
+                "sp_attack": 25,
+                "sp_defence": 35,
+                "speed": 72
+            },
+            "actual_value": {
+                "hp": 105,
+                "attack": 76,
+                "defence": 55,
+                "sp_attack": 45,
+                "sp_defence": 55,
+                "speed": 92
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 20,
+        "name": "ラッタ",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "にげあし",
+                "is_hidden": false
+            },
+            {
+                "name": "こんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 55,
+                "attack": 81,
+                "defence": 60,
+                "sp_attack": 50,
+                "sp_defence": 70,
+                "speed": 97
+            },
+            "actual_value": {
+                "hp": 130,
+                "attack": 101,
+                "defence": 80,
+                "sp_attack": 70,
+                "sp_defence": 90,
+                "speed": 117
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 20,
+        "name": "ラッタ",
+        "types": {
+            "type_1": "あく",
+            "type_2": "ノーマル"
+        },
+        "abilities": [
+            {
+                "name": "くいしんぼう",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": false
+            },
+            {
+                "name": "あついしぼう",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 75,
+                "attack": 71,
+                "defence": 70,
+                "sp_attack": 40,
+                "sp_defence": 80,
+                "speed": 77
+            },
+            "actual_value": {
+                "hp": 150,
+                "attack": 91,
+                "defence": 90,
+                "sp_attack": 60,
+                "sp_defence": 100,
+                "speed": 97
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 21,
+        "name": "オニスズメ",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "するどいめ",
+                "is_hidden": false
+            },
+            {
+                "name": "スナイパー",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 60,
+                "defence": 30,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 70
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 80,
+                "defence": 50,
+                "sp_attack": 51,
+                "sp_defence": 51,
+                "speed": 90
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 22,
+        "name": "オニドリル",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "するどいめ",
+                "is_hidden": false
+            },
+            {
+                "name": "スナイパー",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 90,
+                "defence": 65,
+                "sp_attack": 61,
+                "sp_defence": 61,
+                "speed": 100
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 110,
+                "defence": 85,
+                "sp_attack": 81,
+                "sp_defence": 81,
+                "speed": 120
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 23,
+        "name": "アーボ",
+        "types": {
+            "type_1": "どく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "いかく",
+                "is_hidden": false
+            },
+            {
+                "name": "だっぴ",
+                "is_hidden": false
+            },
+            {
+                "name": "きんちょうかん",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 35,
+                "attack": 60,
+                "defence": 44,
+                "sp_attack": 40,
+                "sp_defence": 54,
+                "speed": 55
+            },
+            "actual_value": {
+                "hp": 110,
+                "attack": 80,
+                "defence": 64,
+                "sp_attack": 60,
+                "sp_defence": 74,
+                "speed": 75
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 24,
+        "name": "アーボック",
+        "types": {
+            "type_1": "どく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "いかく",
+                "is_hidden": false
+            },
+            {
+                "name": "だっぴ",
+                "is_hidden": false
+            },
+            {
+                "name": "きんちょうかん",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 95,
+                "defence": 69,
+                "sp_attack": 65,
+                "sp_defence": 79,
+                "speed": 80
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 115,
+                "defence": 89,
+                "sp_attack": 85,
+                "sp_defence": 99,
+                "speed": 100
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 25,
+        "name": "ピカチュウ",
+        "types": {
+            "type_1": "でんき",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "せいでんき",
+                "is_hidden": false
+            },
+            {
+                "name": "ひらいしん",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 35,
+                "attack": 55,
+                "defence": 40,
+                "sp_attack": 50,
+                "sp_defence": 50,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 110,
+                "attack": 75,
+                "defence": 60,
+                "sp_attack": 70,
+                "sp_defence": 70,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 26,
+        "name": "ライチュウ",
+        "types": {
+            "type_1": "でんき",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "せいでんき",
+                "is_hidden": false
+            },
+            {
+                "name": "ひらいしん",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 90,
+                "defence": 55,
+                "sp_attack": 90,
+                "sp_defence": 80,
+                "speed": 110
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 110,
+                "defence": 75,
+                "sp_attack": 110,
+                "sp_defence": 100,
+                "speed": 130
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 26,
+        "name": "ライチュウ",
+        "types": {
+            "type_1": "でんき",
+            "type_2": "エスパー"
+        },
+        "abilities": [
+            {
+                "name": "サーフテール",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 85,
+                "defence": 50,
+                "sp_attack": 95,
+                "sp_defence": 85,
+                "speed": 110
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 105,
+                "defence": 70,
+                "sp_attack": 115,
+                "sp_defence": 105,
+                "speed": 130
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 27,
+        "name": "サンド",
+        "types": {
+            "type_1": "じめん",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "すながくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "すなかき",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 50,
+                "attack": 75,
+                "defence": 85,
+                "sp_attack": 20,
+                "sp_defence": 30,
+                "speed": 40
+            },
+            "actual_value": {
+                "hp": 125,
+                "attack": 95,
+                "defence": 105,
+                "sp_attack": 40,
+                "sp_defence": 50,
+                "speed": 60
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 27,
+        "name": "サンド",
+        "types": {
+            "type_1": "こおり",
+            "type_2": "はがね"
+        },
+        "abilities": [
+            {
+                "name": "ゆきがくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "ゆきかき",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 50,
+                "attack": 75,
+                "defence": 90,
+                "sp_attack": 10,
+                "sp_defence": 35,
+                "speed": 40
+            },
+            "actual_value": {
+                "hp": 125,
+                "attack": 95,
+                "defence": 110,
+                "sp_attack": 30,
+                "sp_defence": 55,
+                "speed": 60
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 28,
+        "name": "サンドパン",
+        "types": {
+            "type_1": "じめん",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "すながくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "すなかき",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 75,
+                "attack": 100,
+                "defence": 110,
+                "sp_attack": 45,
+                "sp_defence": 55,
+                "speed": 65
+            },
+            "actual_value": {
+                "hp": 150,
+                "attack": 120,
+                "defence": 130,
+                "sp_attack": 65,
+                "sp_defence": 75,
+                "speed": 85
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 28,
+        "name": "サンドパン",
+        "types": {
+            "type_1": "こおり",
+            "type_2": "はがね"
+        },
+        "abilities": [
+            {
+                "name": "ゆきがくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "ゆきかき",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 75,
+                "attack": 100,
+                "defence": 120,
+                "sp_attack": 25,
+                "sp_defence": 65,
+                "speed": 65
+            },
+            "actual_value": {
+                "hp": 150,
+                "attack": 120,
+                "defence": 140,
+                "sp_attack": 45,
+                "sp_defence": 85,
+                "speed": 85
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 29,
+        "name": "ニドラン♀",
+        "types": {
+            "type_1": "どく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "どくのトゲ",
+                "is_hidden": false
+            },
+            {
+                "name": "とうそうしん",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 55,
+                "attack": 47,
+                "defence": 52,
+                "sp_attack": 40,
+                "sp_defence": 40,
+                "speed": 41
+            },
+            "actual_value": {
+                "hp": 130,
+                "attack": 67,
+                "defence": 72,
+                "sp_attack": 60,
+                "sp_defence": 60,
+                "speed": 61
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 30,
+        "name": "ニドリーナ",
+        "types": {
+            "type_1": "どく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "どくのトゲ",
+                "is_hidden": false
+            },
+            {
+                "name": "とうそうしん",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 70,
+                "attack": 62,
+                "defence": 67,
+                "sp_attack": 55,
+                "sp_defence": 55,
+                "speed": 56
+            },
+            "actual_value": {
+                "hp": 145,
+                "attack": 82,
+                "defence": 87,
+                "sp_attack": 75,
+                "sp_defence": 75,
+                "speed": 76
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 31,
+        "name": "ニドクイン",
+        "types": {
+            "type_1": "どく",
+            "type_2": "じめん"
+        },
+        "abilities": [
+            {
+                "name": "どくのトゲ",
+                "is_hidden": false
+            },
+            {
+                "name": "とうそうしん",
+                "is_hidden": false
+            },
+            {
+                "name": "ちからずく",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 90,
+                "attack": 92,
+                "defence": 87,
+                "sp_attack": 75,
+                "sp_defence": 85,
+                "speed": 76
+            },
+            "actual_value": {
+                "hp": 165,
+                "attack": 112,
+                "defence": 107,
+                "sp_attack": 95,
+                "sp_defence": 105,
+                "speed": 96
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 32,
+        "name": "ニドラン♂",
+        "types": {
+            "type_1": "どく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "どくのトゲ",
+                "is_hidden": false
+            },
+            {
+                "name": "とうそうしん",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 46,
+                "attack": 57,
+                "defence": 40,
+                "sp_attack": 40,
+                "sp_defence": 40,
+                "speed": 50
+            },
+            "actual_value": {
+                "hp": 121,
+                "attack": 77,
+                "defence": 60,
+                "sp_attack": 60,
+                "sp_defence": 60,
+                "speed": 70
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 33,
+        "name": "ニドリーノ",
+        "types": {
+            "type_1": "どく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "どくのトゲ",
+                "is_hidden": false
+            },
+            {
+                "name": "とうそうしん",
+                "is_hidden": false
+            },
+            {
+                "name": "はりきり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 61,
+                "attack": 72,
+                "defence": 57,
+                "sp_attack": 55,
+                "sp_defence": 55,
+                "speed": 65
+            },
+            "actual_value": {
+                "hp": 136,
+                "attack": 92,
+                "defence": 77,
+                "sp_attack": 75,
+                "sp_defence": 75,
+                "speed": 85
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 34,
+        "name": "ニドキング",
+        "types": {
+            "type_1": "どく",
+            "type_2": "じめん"
+        },
+        "abilities": [
+            {
+                "name": "どくのトゲ",
+                "is_hidden": false
+            },
+            {
+                "name": "とうそうしん",
+                "is_hidden": false
+            },
+            {
+                "name": "ちからずく",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 81,
+                "attack": 102,
+                "defence": 77,
+                "sp_attack": 85,
+                "sp_defence": 75,
+                "speed": 85
+            },
+            "actual_value": {
+                "hp": 156,
+                "attack": 122,
+                "defence": 97,
+                "sp_attack": 105,
+                "sp_defence": 95,
+                "speed": 105
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 35,
+        "name": "ピッピ",
+        "types": {
+            "type_1": "フェアリー",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "メロメロボディ",
+                "is_hidden": false
+            },
+            {
+                "name": "マジックガード",
+                "is_hidden": false
+            },
+            {
+                "name": "フレンドガード",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 70,
+                "attack": 45,
+                "defence": 48,
+                "sp_attack": 60,
+                "sp_defence": 65,
+                "speed": 35
+            },
+            "actual_value": {
+                "hp": 145,
+                "attack": 65,
+                "defence": 68,
+                "sp_attack": 80,
+                "sp_defence": 85,
+                "speed": 55
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 36,
+        "name": "ピクシー",
+        "types": {
+            "type_1": "フェアリー",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "メロメロボディ",
+                "is_hidden": false
+            },
+            {
+                "name": "マジックガード",
+                "is_hidden": false
+            },
+            {
+                "name": "てんねん",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 95,
+                "attack": 70,
+                "defence": 73,
+                "sp_attack": 95,
+                "sp_defence": 90,
+                "speed": 60
+            },
+            "actual_value": {
+                "hp": 170,
+                "attack": 90,
+                "defence": 93,
+                "sp_attack": 115,
+                "sp_defence": 110,
+                "speed": 80
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 37,
+        "name": "ロコン",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "もらいび",
+                "is_hidden": false
+            },
+            {
+                "name": "ひでり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 38,
+                "attack": 41,
+                "defence": 40,
+                "sp_attack": 50,
+                "sp_defence": 65,
+                "speed": 65
+            },
+            "actual_value": {
+                "hp": 113,
+                "attack": 61,
+                "defence": 60,
+                "sp_attack": 70,
+                "sp_defence": 85,
+                "speed": 85
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 37,
+        "name": "ロコン",
+        "types": {
+            "type_1": "こおり",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "ゆきがくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "ゆきふらし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 38,
+                "attack": 41,
+                "defence": 40,
+                "sp_attack": 50,
+                "sp_defence": 65,
+                "speed": 65
+            },
+            "actual_value": {
+                "hp": 113,
+                "attack": 61,
+                "defence": 60,
+                "sp_attack": 70,
+                "sp_defence": 85,
+                "speed": 85
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 38,
+        "name": "キュウコン",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "もらいび",
+                "is_hidden": false
+            },
+            {
+                "name": "ひでり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 73,
+                "attack": 76,
+                "defence": 75,
+                "sp_attack": 81,
+                "sp_defence": 100,
+                "speed": 100
+            },
+            "actual_value": {
+                "hp": 148,
+                "attack": 96,
+                "defence": 95,
+                "sp_attack": 101,
+                "sp_defence": 120,
+                "speed": 120
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 38,
+        "name": "キュウコン",
+        "types": {
+            "type_1": "こおり",
+            "type_2": "フェアリー"
+        },
+        "abilities": [
+            {
+                "name": "ゆきがくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "ゆきふらし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 73,
+                "attack": 67,
+                "defence": 75,
+                "sp_attack": 81,
+                "sp_defence": 100,
+                "speed": 109
+            },
+            "actual_value": {
+                "hp": 148,
+                "attack": 87,
+                "defence": 95,
+                "sp_attack": 101,
+                "sp_defence": 120,
+                "speed": 129
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 39,
+        "name": "プリン",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "フェアリー"
+        },
+        "abilities": [
+            {
+                "name": "メロメロボディ",
+                "is_hidden": false
+            },
+            {
+                "name": "かちき",
+                "is_hidden": false
+            },
+            {
+                "name": "フレンドガード",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 115,
+                "attack": 45,
+                "defence": 20,
+                "sp_attack": 45,
+                "sp_defence": 25,
+                "speed": 20
+            },
+            "actual_value": {
+                "hp": 190,
+                "attack": 65,
+                "defence": 40,
+                "sp_attack": 65,
+                "sp_defence": 45,
+                "speed": 40
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 40,
+        "name": "プクリン",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": "フェアリー"
+        },
+        "abilities": [
+            {
+                "name": "メロメロボディ",
+                "is_hidden": false
+            },
+            {
+                "name": "かちき",
+                "is_hidden": false
+            },
+            {
+                "name": "おみとおし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 140,
+                "attack": 70,
+                "defence": 45,
+                "sp_attack": 85,
+                "sp_defence": 50,
+                "speed": 45
+            },
+            "actual_value": {
+                "hp": 215,
+                "attack": 90,
+                "defence": 65,
+                "sp_attack": 105,
+                "sp_defence": 70,
+                "speed": 65
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 41,
+        "name": "ズバット",
+        "types": {
+            "type_1": "どく",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "せいしんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "すりぬけ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 45,
+                "defence": 35,
+                "sp_attack": 30,
+                "sp_defence": 40,
+                "speed": 55
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 65,
+                "defence": 55,
+                "sp_attack": 50,
+                "sp_defence": 60,
+                "speed": 75
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 42,
+        "name": "ゴルバット",
+        "types": {
+            "type_1": "どく",
+            "type_2": "ひこう"
+        },
+        "abilities": [
+            {
+                "name": "せいしんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "すりぬけ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 75,
+                "attack": 80,
+                "defence": 70,
+                "sp_attack": 65,
+                "sp_defence": 75,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 150,
+                "attack": 100,
+                "defence": 90,
+                "sp_attack": 85,
+                "sp_defence": 95,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 43,
+        "name": "ナゾノクサ",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "ようりょくそ",
+                "is_hidden": false
+            },
+            {
+                "name": "にげあし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 45,
+                "attack": 50,
+                "defence": 55,
+                "sp_attack": 75,
+                "sp_defence": 65,
+                "speed": 30
+            },
+            "actual_value": {
+                "hp": 120,
+                "attack": 70,
+                "defence": 75,
+                "sp_attack": 95,
+                "sp_defence": 85,
+                "speed": 50
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 44,
+        "name": "クサイハナ",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "ようりょくそ",
+                "is_hidden": false
+            },
+            {
+                "name": "あくしゅう",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 65,
+                "defence": 70,
+                "sp_attack": 85,
+                "sp_defence": 75,
+                "speed": 40
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 85,
+                "defence": 90,
+                "sp_attack": 105,
+                "sp_defence": 95,
+                "speed": 60
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 45,
+        "name": "ラフレシア",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "ようりょくそ",
+                "is_hidden": false
+            },
+            {
+                "name": "ほうし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 75,
+                "attack": 80,
+                "defence": 85,
+                "sp_attack": 110,
+                "sp_defence": 90,
+                "speed": 50
+            },
+            "actual_value": {
+                "hp": 150,
+                "attack": 100,
+                "defence": 105,
+                "sp_attack": 130,
+                "sp_defence": 110,
+                "speed": 70
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 46,
+        "name": "パラス",
+        "types": {
+            "type_1": "むし",
+            "type_2": "くさ"
+        },
+        "abilities": [
+            {
+                "name": "ほうし",
+                "is_hidden": false
+            },
+            {
+                "name": "かんそうはだ",
+                "is_hidden": false
+            },
+            {
+                "name": "しめりけ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 35,
+                "attack": 70,
+                "defence": 55,
+                "sp_attack": 45,
+                "sp_defence": 55,
+                "speed": 25
+            },
+            "actual_value": {
+                "hp": 110,
+                "attack": 90,
+                "defence": 75,
+                "sp_attack": 65,
+                "sp_defence": 75,
+                "speed": 45
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 47,
+        "name": "パラセクト",
+        "types": {
+            "type_1": "むし",
+            "type_2": "くさ"
+        },
+        "abilities": [
+            {
+                "name": "ほうし",
+                "is_hidden": false
+            },
+            {
+                "name": "かんそうはだ",
+                "is_hidden": false
+            },
+            {
+                "name": "しめりけ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 95,
+                "defence": 80,
+                "sp_attack": 60,
+                "sp_defence": 80,
+                "speed": 30
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 115,
+                "defence": 100,
+                "sp_attack": 80,
+                "sp_defence": 100,
+                "speed": 50
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 48,
+        "name": "コンパン",
+        "types": {
+            "type_1": "むし",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "ふくがん",
+                "is_hidden": false
+            },
+            {
+                "name": "いろめがね",
+                "is_hidden": false
+            },
+            {
+                "name": "にげあし",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 60,
+                "attack": 55,
+                "defence": 50,
+                "sp_attack": 40,
+                "sp_defence": 55,
+                "speed": 45
+            },
+            "actual_value": {
+                "hp": 135,
+                "attack": 75,
+                "defence": 70,
+                "sp_attack": 60,
+                "sp_defence": 75,
+                "speed": 65
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 49,
+        "name": "モルフォン",
+        "types": {
+            "type_1": "むし",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "りんぷん",
+                "is_hidden": false
+            },
+            {
+                "name": "いろめがね",
+                "is_hidden": false
+            },
+            {
+                "name": "ミラクルスキン",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 70,
+                "attack": 65,
+                "defence": 60,
+                "sp_attack": 90,
+                "sp_defence": 75,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 145,
+                "attack": 85,
+                "defence": 80,
+                "sp_attack": 110,
+                "sp_defence": 95,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 50,
+        "name": "ディグダ",
+        "types": {
+            "type_1": "じめん",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "すながくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "ありじごく",
+                "is_hidden": false
+            },
+            {
+                "name": "すなのちから",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 10,
+                "attack": 55,
+                "defence": 25,
+                "sp_attack": 35,
+                "sp_defence": 45,
+                "speed": 95
+            },
+            "actual_value": {
+                "hp": 85,
+                "attack": 75,
+                "defence": 45,
+                "sp_attack": 55,
+                "sp_defence": 65,
+                "speed": 115
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 50,
+        "name": "ディグダ",
+        "types": {
+            "type_1": "じめん",
+            "type_2": "はがね"
+        },
+        "abilities": [
+            {
+                "name": "すながくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "カーリーヘアー",
+                "is_hidden": false
+            },
+            {
+                "name": "すなのちから",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 10,
+                "attack": 55,
+                "defence": 30,
+                "sp_attack": 35,
+                "sp_defence": 45,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 85,
+                "attack": 75,
+                "defence": 50,
+                "sp_attack": 55,
+                "sp_defence": 65,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 51,
+        "name": "ダグトリオ",
+        "types": {
+            "type_1": "じめん",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "すながくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "ありじごく",
+                "is_hidden": false
+            },
+            {
+                "name": "すなのちから",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 35,
+                "attack": 100,
+                "defence": 50,
+                "sp_attack": 50,
+                "sp_defence": 70,
+                "speed": 120
+            },
+            "actual_value": {
+                "hp": 110,
+                "attack": 120,
+                "defence": 70,
+                "sp_attack": 70,
+                "sp_defence": 90,
+                "speed": 140
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 51,
+        "name": "ダグトリオ",
+        "types": {
+            "type_1": "じめん",
+            "type_2": "はがね"
+        },
+        "abilities": [
+            {
+                "name": "すながくれ",
+                "is_hidden": false
+            },
+            {
+                "name": "カーリーヘアー",
+                "is_hidden": false
+            },
+            {
+                "name": "すなのちから",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 35,
+                "attack": 100,
+                "defence": 60,
+                "sp_attack": 50,
+                "sp_defence": 70,
+                "speed": 110
+            },
+            "actual_value": {
+                "hp": 110,
+                "attack": 120,
+                "defence": 80,
+                "sp_attack": 70,
+                "sp_defence": 90,
+                "speed": 130
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 52,
+        "name": "ニャース",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "ものひろい",
+                "is_hidden": false
+            },
+            {
+                "name": "テクニシャン",
+                "is_hidden": false
+            },
+            {
+                "name": "きんちょうかん",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 45,
+                "defence": 35,
+                "sp_attack": 40,
+                "sp_defence": 40,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 65,
+                "defence": 55,
+                "sp_attack": 60,
+                "sp_defence": 60,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 52,
+        "name": "ニャース",
+        "types": {
+            "type_1": "あく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "ものひろい",
+                "is_hidden": false
+            },
+            {
+                "name": "テクニシャン",
+                "is_hidden": false
+            },
+            {
+                "name": "びびり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 35,
+                "defence": 35,
+                "sp_attack": 50,
+                "sp_defence": 40,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 55,
+                "defence": 55,
+                "sp_attack": 70,
+                "sp_defence": 60,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 53,
+        "name": "ペルシアン",
+        "types": {
+            "type_1": "ノーマル",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "じゅうなん",
+                "is_hidden": false
+            },
+            {
+                "name": "テクニシャン",
+                "is_hidden": false
+            },
+            {
+                "name": "きんちょうかん",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 70,
+                "defence": 60,
+                "sp_attack": 65,
+                "sp_defence": 65,
+                "speed": 115
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 90,
+                "defence": 80,
+                "sp_attack": 85,
+                "sp_defence": 85,
+                "speed": 135
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 53,
+        "name": "ペルシアン",
+        "types": {
+            "type_1": "あく",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "ファーコート",
+                "is_hidden": false
+            },
+            {
+                "name": "テクニシャン",
+                "is_hidden": false
+            },
+            {
+                "name": "びびり",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 60,
+                "defence": 60,
+                "sp_attack": 75,
+                "sp_defence": 65,
+                "speed": 115
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 80,
+                "defence": 80,
+                "sp_attack": 95,
+                "sp_defence": 85,
+                "speed": 135
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 54,
+        "name": "コダック",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "しめりけ",
+                "is_hidden": false
+            },
+            {
+                "name": "ノーてんき",
+                "is_hidden": false
+            },
+            {
+                "name": "すいすい",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 50,
+                "attack": 52,
+                "defence": 48,
+                "sp_attack": 65,
+                "sp_defence": 50,
+                "speed": 55
+            },
+            "actual_value": {
+                "hp": 125,
+                "attack": 72,
+                "defence": 68,
+                "sp_attack": 85,
+                "sp_defence": 70,
+                "speed": 75
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 55,
+        "name": "ゴルダック",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "しめりけ",
+                "is_hidden": false
+            },
+            {
+                "name": "ノーてんき",
+                "is_hidden": false
+            },
+            {
+                "name": "すいすい",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 80,
+                "attack": 82,
+                "defence": 78,
+                "sp_attack": 95,
+                "sp_defence": 80,
+                "speed": 85
+            },
+            "actual_value": {
+                "hp": 155,
+                "attack": 102,
+                "defence": 98,
+                "sp_attack": 115,
+                "sp_defence": 100,
+                "speed": 105
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 56,
+        "name": "マンキー",
+        "types": {
+            "type_1": "かくとう",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "やるき",
+                "is_hidden": false
+            },
+            {
+                "name": "いかりのつぼ",
+                "is_hidden": false
+            },
+            {
+                "name": "まけんき",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 80,
+                "defence": 35,
+                "sp_attack": 35,
+                "sp_defence": 45,
+                "speed": 70
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 100,
+                "defence": 55,
+                "sp_attack": 55,
+                "sp_defence": 65,
+                "speed": 90
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 57,
+        "name": "オコリザル",
+        "types": {
+            "type_1": "かくとう",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "やるき",
+                "is_hidden": false
+            },
+            {
+                "name": "いかりのつぼ",
+                "is_hidden": false
+            },
+            {
+                "name": "まけんき",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 105,
+                "defence": 60,
+                "sp_attack": 60,
+                "sp_defence": 70,
+                "speed": 95
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 125,
+                "defence": 80,
+                "sp_attack": 80,
+                "sp_defence": 90,
+                "speed": 115
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 58,
+        "name": "ガーディ",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "いかく",
+                "is_hidden": false
+            },
+            {
+                "name": "もらいび",
+                "is_hidden": false
+            },
+            {
+                "name": "せいぎのこころ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 55,
+                "attack": 70,
+                "defence": 45,
+                "sp_attack": 70,
+                "sp_defence": 50,
+                "speed": 60
+            },
+            "actual_value": {
+                "hp": 130,
+                "attack": 90,
+                "defence": 65,
+                "sp_attack": 90,
+                "sp_defence": 70,
+                "speed": 80
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 59,
+        "name": "ウインディ",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "いかく",
+                "is_hidden": false
+            },
+            {
+                "name": "もらいび",
+                "is_hidden": false
+            },
+            {
+                "name": "せいぎのこころ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 90,
+                "attack": 110,
+                "defence": 80,
+                "sp_attack": 100,
+                "sp_defence": 80,
+                "speed": 95
+            },
+            "actual_value": {
+                "hp": 165,
+                "attack": 130,
+                "defence": 100,
+                "sp_attack": 120,
+                "sp_defence": 100,
+                "speed": 115
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 60,
+        "name": "ニョロモ",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "ちょすい",
+                "is_hidden": false
+            },
+            {
+                "name": "しめりけ",
+                "is_hidden": false
+            },
+            {
+                "name": "すいすい",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 50,
+                "defence": 40,
+                "sp_attack": 40,
+                "sp_defence": 40,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 70,
+                "defence": 60,
+                "sp_attack": 60,
+                "sp_defence": 60,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 61,
+        "name": "ニョロゾ",
+        "types": {
+            "type_1": "みず",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "ちょすい",
+                "is_hidden": false
+            },
+            {
+                "name": "しめりけ",
+                "is_hidden": false
+            },
+            {
+                "name": "すいすい",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 65,
+                "defence": 65,
+                "sp_attack": 50,
+                "sp_defence": 50,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 85,
+                "defence": 85,
+                "sp_attack": 70,
+                "sp_defence": 70,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 62,
+        "name": "ニョロボン",
+        "types": {
+            "type_1": "みず",
+            "type_2": "かくとう"
+        },
+        "abilities": [
+            {
+                "name": "ちょすい",
+                "is_hidden": false
+            },
+            {
+                "name": "しめりけ",
+                "is_hidden": false
+            },
+            {
+                "name": "すいすい",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 90,
+                "attack": 95,
+                "defence": 95,
+                "sp_attack": 70,
+                "sp_defence": 90,
+                "speed": 70
+            },
+            "actual_value": {
+                "hp": 165,
+                "attack": 115,
+                "defence": 115,
+                "sp_attack": 90,
+                "sp_defence": 110,
+                "speed": 90
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 63,
+        "name": "ケーシィ",
+        "types": {
+            "type_1": "エスパー",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "シンクロ",
+                "is_hidden": false
+            },
+            {
+                "name": "せいしんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "マジックガード",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 25,
+                "attack": 20,
+                "defence": 15,
+                "sp_attack": 105,
+                "sp_defence": 55,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 100,
+                "attack": 40,
+                "defence": 35,
+                "sp_attack": 125,
+                "sp_defence": 75,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 64,
+        "name": "ユンゲラー",
+        "types": {
+            "type_1": "エスパー",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "シンクロ",
+                "is_hidden": false
+            },
+            {
+                "name": "せいしんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "マジックガード",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 35,
+                "defence": 30,
+                "sp_attack": 120,
+                "sp_defence": 70,
+                "speed": 105
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 55,
+                "defence": 50,
+                "sp_attack": 140,
+                "sp_defence": 90,
+                "speed": 125
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 65,
+        "name": "フーディン",
+        "types": {
+            "type_1": "エスパー",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "シンクロ",
+                "is_hidden": false
+            },
+            {
+                "name": "せいしんりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "マジックガード",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 55,
+                "attack": 50,
+                "defence": 45,
+                "sp_attack": 135,
+                "sp_defence": 95,
+                "speed": 120
+            },
+            "actual_value": {
+                "hp": 130,
+                "attack": 70,
+                "defence": 65,
+                "sp_attack": 155,
+                "sp_defence": 115,
+                "speed": 140
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 65,
+        "name": "メガフーディン",
+        "types": {
+            "type_1": "エスパー",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "トレース",
+                "is_hidden": false
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 55,
+                "attack": 50,
+                "defence": 65,
+                "sp_attack": 175,
+                "sp_defence": 95,
+                "speed": 150
+            },
+            "actual_value": {
+                "hp": 130,
+                "attack": 70,
+                "defence": 85,
+                "sp_attack": 195,
+                "sp_defence": 115,
+                "speed": 170
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 66,
+        "name": "ワンリキー",
+        "types": {
+            "type_1": "かくとう",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "こんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "ノーガード",
+                "is_hidden": false
+            },
+            {
+                "name": "ふくつのこころ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 70,
+                "attack": 80,
+                "defence": 50,
+                "sp_attack": 35,
+                "sp_defence": 35,
+                "speed": 35
+            },
+            "actual_value": {
+                "hp": 145,
+                "attack": 100,
+                "defence": 70,
+                "sp_attack": 55,
+                "sp_defence": 55,
+                "speed": 55
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 67,
+        "name": "ゴーリキー",
+        "types": {
+            "type_1": "かくとう",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "こんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "ノーガード",
+                "is_hidden": false
+            },
+            {
+                "name": "ふくつのこころ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 80,
+                "attack": 100,
+                "defence": 70,
+                "sp_attack": 50,
+                "sp_defence": 60,
+                "speed": 45
+            },
+            "actual_value": {
+                "hp": 155,
+                "attack": 120,
+                "defence": 90,
+                "sp_attack": 70,
+                "sp_defence": 80,
+                "speed": 65
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 68,
+        "name": "カイリキー",
+        "types": {
+            "type_1": "かくとう",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "こんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "ノーガード",
+                "is_hidden": false
+            },
+            {
+                "name": "ふくつのこころ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 90,
+                "attack": 130,
+                "defence": 80,
+                "sp_attack": 65,
+                "sp_defence": 85,
+                "speed": 55
+            },
+            "actual_value": {
+                "hp": 165,
+                "attack": 150,
+                "defence": 100,
+                "sp_attack": 85,
+                "sp_defence": 105,
+                "speed": 75
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 69,
+        "name": "マダツボミ",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "ようりょくそ",
+                "is_hidden": false
+            },
+            {
+                "name": "くいしんぼう",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 50,
+                "attack": 75,
+                "defence": 35,
+                "sp_attack": 70,
+                "sp_defence": 30,
+                "speed": 40
+            },
+            "actual_value": {
+                "hp": 125,
+                "attack": 95,
+                "defence": 55,
+                "sp_attack": 90,
+                "sp_defence": 50,
+                "speed": 60
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 70,
+        "name": "ウツドン",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "ようりょくそ",
+                "is_hidden": false
+            },
+            {
+                "name": "くいしんぼう",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 90,
+                "defence": 50,
+                "sp_attack": 85,
+                "sp_defence": 45,
+                "speed": 55
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 110,
+                "defence": 70,
+                "sp_attack": 105,
+                "sp_defence": 65,
+                "speed": 75
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 71,
+        "name": "ウツボット",
+        "types": {
+            "type_1": "くさ",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "ようりょくそ",
+                "is_hidden": false
+            },
+            {
+                "name": "くいしんぼう",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 80,
+                "attack": 105,
+                "defence": 65,
+                "sp_attack": 100,
+                "sp_defence": 70,
+                "speed": 70
+            },
+            "actual_value": {
+                "hp": 155,
+                "attack": 125,
+                "defence": 85,
+                "sp_attack": 120,
+                "sp_defence": 90,
+                "speed": 90
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 72,
+        "name": "メノクラゲ",
+        "types": {
+            "type_1": "みず",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "クリアボディ",
+                "is_hidden": false
+            },
+            {
+                "name": "ヘドロえき",
+                "is_hidden": false
+            },
+            {
+                "name": "あめうけざら",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 40,
+                "defence": 35,
+                "sp_attack": 50,
+                "sp_defence": 100,
+                "speed": 70
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 60,
+                "defence": 55,
+                "sp_attack": 70,
+                "sp_defence": 120,
+                "speed": 90
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 73,
+        "name": "ドククラゲ",
+        "types": {
+            "type_1": "みず",
+            "type_2": "どく"
+        },
+        "abilities": [
+            {
+                "name": "クリアボディ",
+                "is_hidden": false
+            },
+            {
+                "name": "ヘドロえき",
+                "is_hidden": false
+            },
+            {
+                "name": "あめうけざら",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 80,
+                "attack": 70,
+                "defence": 65,
+                "sp_attack": 80,
+                "sp_defence": 120,
+                "speed": 100
+            },
+            "actual_value": {
+                "hp": 155,
+                "attack": 90,
+                "defence": 85,
+                "sp_attack": 100,
+                "sp_defence": 140,
+                "speed": 120
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 74,
+        "name": "イシツブテ",
+        "types": {
+            "type_1": "いわ",
+            "type_2": "じめん"
+        },
+        "abilities": [
+            {
+                "name": "いしあたま",
+                "is_hidden": false
+            },
+            {
+                "name": "がんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "すながくれ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 80,
+                "defence": 100,
+                "sp_attack": 30,
+                "sp_defence": 30,
+                "speed": 20
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 100,
+                "defence": 120,
+                "sp_attack": 50,
+                "sp_defence": 50,
+                "speed": 40
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 74,
+        "name": "イシツブテ",
+        "types": {
+            "type_1": "いわ",
+            "type_2": "でんき"
+        },
+        "abilities": [
+            {
+                "name": "じりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "がんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "エレキスキン",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 80,
+                "defence": 100,
+                "sp_attack": 30,
+                "sp_defence": 30,
+                "speed": 20
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 100,
+                "defence": 120,
+                "sp_attack": 50,
+                "sp_defence": 50,
+                "speed": 40
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 75,
+        "name": "ゴローン",
+        "types": {
+            "type_1": "いわ",
+            "type_2": "じめん"
+        },
+        "abilities": [
+            {
+                "name": "いしあたま",
+                "is_hidden": false
+            },
+            {
+                "name": "がんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "すながくれ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 55,
+                "attack": 95,
+                "defence": 115,
+                "sp_attack": 45,
+                "sp_defence": 45,
+                "speed": 35
+            },
+            "actual_value": {
+                "hp": 130,
+                "attack": 115,
+                "defence": 135,
+                "sp_attack": 65,
+                "sp_defence": 65,
+                "speed": 55
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 75,
+        "name": "ゴローン",
+        "types": {
+            "type_1": "いわ",
+            "type_2": "でんき"
+        },
+        "abilities": [
+            {
+                "name": "じりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "がんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "エレキスキン",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 80,
+                "defence": 100,
+                "sp_attack": 30,
+                "sp_defence": 30,
+                "speed": 20
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 100,
+                "defence": 120,
+                "sp_attack": 50,
+                "sp_defence": 50,
+                "speed": 40
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 76,
+        "name": "ゴローニャ",
+        "types": {
+            "type_1": "いわ",
+            "type_2": "じめん"
+        },
+        "abilities": [
+            {
+                "name": "いしあたま",
+                "is_hidden": false
+            },
+            {
+                "name": "がんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "すながくれ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": true,
+            "can_sp_defence": true,
+            "status_value": {
+                "hp": 80,
+                "attack": 120,
+                "defence": 130,
+                "sp_attack": 55,
+                "sp_defence": 65,
+                "speed": 45
+            },
+            "actual_value": {
+                "hp": 155,
+                "attack": 140,
+                "defence": 150,
+                "sp_attack": 75,
+                "sp_defence": 85,
+                "speed": 65
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 76,
+        "name": "ゴローニャ",
+        "types": {
+            "type_1": "いわ",
+            "type_2": "でんき"
+        },
+        "abilities": [
+            {
+                "name": "じりょく",
+                "is_hidden": false
+            },
+            {
+                "name": "がんじょう",
+                "is_hidden": false
+            },
+            {
+                "name": "エレキスキン",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 40,
+                "attack": 80,
+                "defence": 100,
+                "sp_attack": 30,
+                "sp_defence": 30,
+                "speed": 20
+            },
+            "actual_value": {
+                "hp": 115,
+                "attack": 100,
+                "defence": 120,
+                "sp_attack": 50,
+                "sp_defence": 50,
+                "speed": 40
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 77,
+        "name": "ポニータ",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "にげあし",
+                "is_hidden": false
+            },
+            {
+                "name": "もらいび",
+                "is_hidden": false
+            },
+            {
+                "name": "ほのおのからだ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 50,
+                "attack": 85,
+                "defence": 55,
+                "sp_attack": 65,
+                "sp_defence": 65,
+                "speed": 90
+            },
+            "actual_value": {
+                "hp": 125,
+                "attack": 105,
+                "defence": 75,
+                "sp_attack": 85,
+                "sp_defence": 85,
+                "speed": 110
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 78,
+        "name": "ギャロップ",
+        "types": {
+            "type_1": "ほのお",
+            "type_2": null
+        },
+        "abilities": [
+            {
+                "name": "にげあし",
+                "is_hidden": false
+            },
+            {
+                "name": "もらいび",
+                "is_hidden": false
+            },
+            {
+                "name": "ほのおのからだ",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 65,
+                "attack": 100,
+                "defence": 70,
+                "sp_attack": 80,
+                "sp_defence": 80,
+                "speed": 105
+            },
+            "actual_value": {
+                "hp": 140,
+                "attack": 120,
+                "defence": 90,
+                "sp_attack": 100,
+                "sp_defence": 100,
+                "speed": 125
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    },
+    {
+        "no": 79,
+        "name": "ヤドン",
+        "types": {
+            "type_1": "みず",
+            "type_2": "エスパー"
+        },
+        "abilities": [
+            {
+                "name": "どんかん",
+                "is_hidden": false
+            },
+            {
+                "name": "マイペース",
+                "is_hidden": false
+            },
+            {
+                "name": "さいせいりょく",
+                "is_hidden": true
+            }
+        ],
+        "status": {
+            "lv": 50,
+            "can_defence": false,
+            "can_sp_defence": false,
+            "status_value": {
+                "hp": 90,
+                "attack": 65,
+                "defence": 65,
+                "sp_attack": 40,
+                "sp_defence": 40,
+                "speed": 15
+            },
+            "actual_value": {
+                "hp": 165,
+                "attack": 85,
+                "defence": 85,
+                "sp_attack": 60,
+                "sp_defence": 60,
+                "speed": 35
+            },
+            "effort_value": {
+                "hp": 0,
+                "attack": 0,
+                "defence": 0,
+                "sp_attack": 0,
+                "sp_defence": 0,
+                "speed": 0
+            },
+            "individual_value": {
+                "hp": 31,
+                "attack": 31,
+                "defence": 31,
+                "sp_attack": 31,
+                "sp_defence": 31,
+                "speed": 31
+            }
+        }
+    }
+]

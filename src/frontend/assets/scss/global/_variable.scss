@@ -1,0 +1,43 @@
+/*
+ 要素間の間隔定義
+ */
+$space: 20px;
+$page-content-side-space: 50px;
+
+/*
+ フォント
+ */
+$font-size-small: 11px;
+$font-size-default: 12px;
+$font-size-middle: 16px;
+$font-size-large: 20px;
+$font-size-box-title-main: 20px;
+$font-size-box-title-sub: 16px;
+$font-size-box-item-title-main: 16px;
+$font-size-loading-message: 16px;
+$font-size-modal-title: 16px;
+
+/*
+ 要素の高さ・幅定義
+ */
+$header-height: 50px;
+$footer-height: 50px;
+
+/*
+ 色定義
+ */
+$bg-color: #FFF;
+$border-color: #999;
+$disabled-bg-color: #d1d1d1;
+$w-green: #1cb57b;
+$w-dark-green: darken($w-green, 10%);
+
+/*
+ 要素間の重なり定義
+ */
+$z-index-page-content: 100;
+$z-index-header: 200;
+$z-index-fotter: 200;
+$z-index-modal: 300;
+$z-index-loading: 400;
+$z-index-toast: 500;

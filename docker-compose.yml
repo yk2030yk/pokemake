@@ -1,0 +1,81 @@
+version: "3.4"
+
+services:
+  postgres:
+    image: postgres:11
+    container_name: pokemake.postgresql
+    expose:
+      - "5432"
+    environment:
+      POSTGRES_USER: "django"
+      POSTGRES_PASSWORD: "django1234"
+    hostname: postgres
+    tty: true
+
+  backend:
+    build: ./docker/backend
+    container_name: pokemake.backend
+    command: >
+      bash -c "uwsgi --ini /code/uwsgi.ini"
+    volumes:
+      - ./src/backend:/code
+    expose:
+      - "8001"
+    tty: true
+    depends_on:
+      - postgres
+
+  # frontend:
+  #   build:
+  #     context: ./src/frontend
+  #     dockerfile: ../../docker/frontend/Dockerfile
+  #   container_name: pokemake.frontend
+  #   command: bash -c "npm run dev"
+  #   volumes:
+  #     - ./src/frontend:/app
+  #     - /app/node_modules
+  #   expose:
+  #     - "3000"
+  #   tty: true
+
+  frontend_react:
+    build:
+      context: ./src/frontend_react
+      dockerfile: ../../docker/frontend_react/Dockerfile
+    container_name: pokemake.frontend_react
+    command: bash -c "yarn dev"
+    volumes:
+      - ./src/frontend_react:/app
+      - /app/node_modules
+    expose:
+      - "3000"
+    tty: true
+
+  # testweb:
+  #   build:
+  #     context: ./src/testweb
+  #     dockerfile: ../../docker/testweb/Dockerfile
+  #   container_name: pokemake.testweb
+  #   command: bash -c "npm run start"
+  #   volumes:
+  #     - ./src/testweb:/app
+  #     - /app/node_modules
+  #   expose:
+  #     - "3000"
+  #   tty: true
+
+  nginx:
+    image: nginx:1.13
+    container_name: pokemake.nginx
+    ports:
+      - "8003:8000"
+    volumes:
+      - ./docker/nginx/conf:/etc/nginx/conf.d
+      - ./docker/nginx/uwsgi_params:/etc/nginx/uwsgi_params
+      - ./docker/nginx/log:/var/log/nginx
+    tty: true
+    depends_on:
+      - backend
+      # - frontend
+      # - testweb
+      - frontend_react
